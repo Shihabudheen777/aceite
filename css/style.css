@@ -746,7 +746,7 @@ address {
 }
 
 .page .text-primary {
-	color: #c0667b !important;
+	color: #ffe449 !important;
 }
 
 .page a.text-primary:focus, .page a.text-primary:hover {
@@ -1008,13 +1008,13 @@ html .button-primary-outline .badge {
 html .button-primary-outline-v2, html .button-primary-outline-v2:active, html .button-primary-outline-v2.active, html .button-primary-outline-v2:active:focus, html .button-primary-outline-v2.active:focus, html .button-primary-outline-v2:focus:active, html .button-primary-outline-v2:focus {
 	color: #fff;
 	background-color: transparent;
-	border-color: #c0667b;
+	border-color: #ecb23c;
 }
 
 .open > html .button-primary-outline-v2.dropdown-toggle, html .button-primary-outline-v2:hover {
 	color: #fff;
-	background-color: #c0667b;
-	border-color: #c0667b;
+	background-color: #ecb23c;
+	border-color: #ecb23c;
 }
 
 html .button-primary-outline-v2.disabled, html .button-primary-outline-v2[disabled],
